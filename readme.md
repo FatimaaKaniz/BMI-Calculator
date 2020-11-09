@@ -12,3 +12,8 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ## License
 [GNU gpl-3.0](https://choosealicense.com/licenses/gpl-3.0/)
+
+## Screenshots
+https://github.com/fatima6652/BMI-Calculator/blob/master/Images/Screenshot%20(405).png
+https://github.com/fatima6652/BMI-Calculator/blob/master/Images/Screenshot%20(407).png
+https://github.com/fatima6652/BMI-Calculator/blob/master/Images/Screenshot%20(408).png
