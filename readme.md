@@ -2,7 +2,7 @@
 You can calculate your Body Mass Index using this application.
 
 ## Usage
-You just need to enter your weight and height and it will give you BMI. To share results with someone else you just need to shake your phone once and Magic will happen.
+You just need to enter your weight and height and it will give you BMI. To share results with someone else you just need to shake your phone once and Magic will happen, it will show the Share Intent with Extras Bundle. 
 
 ## Implementation
 Accelerometer Sensor is used to detect shaking.
